@@ -8,7 +8,6 @@
 import UIKit
 
 class ViewController: UIViewController {
-
     
     
     @IBOutlet weak var billAmounTextField: UITextField!
@@ -19,7 +18,6 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
-
 
 }
 
